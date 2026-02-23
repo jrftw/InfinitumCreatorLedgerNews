@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-22T12:00:00Z",
+  "updatedAt": "2026-02-23T12:00:00Z",
   "items": [
+    {
+      "id": "2026-02-23-milestone-promo",
+      "title": "Milestone rewards: free subscription for early supporters",
+      "summary": "At 1K, 5K, 10K, 20K, and 50K users the first 1,000 get 1 month free. At 100K the first 100 get 1 year free. Check the live count here—one user per device.",
+      "body": "We're celebrating growth with real rewards. When we hit 1,000 unique users (one per device), the first 1,000 get a free month. Same deal at 5,000, 10,000, 20,000, and 50,000: the first 1,000 at each milestone get 1 month free. When we reach 100,000 users, the first 100 get one year free. Share the app with other creators and watch the live creator count on this News page—only one user per device counts, so every share matters. Promo codes will be shared in-app and via our channels as we hit each milestone.",
+      "publishedAt": "2026-02-23T12:00:00Z",
+      "linkUrl": ""
+    },
     {
       "id": "2026-02-22-launch",
       "title": "Infinitum Creator Ledger has launched",
