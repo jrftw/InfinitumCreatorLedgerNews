@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-26T12:00:00Z",
+  "updatedAt": "2026-02-26T19:30:00Z",
   "items": [
     {
-      "id": "2026-02-26-agency-beta",
-      "title": "Agency & Creator Network features entering testing phase",
-      "summary": "New agency-level dashboards, referral tracking, and performance tools are now in private testing. Public rollout coming soon.",
-      "body": "As of February 26, 2026, we’ve officially entered the testing phase for Agency and Creator Network features inside Infinitum Creator Ledger.\n\nThis update introduces backend support and early-access tools designed specifically for agencies, managers, and creator networks. These features will allow structured referral tracking, performance-based insights, adoption monitoring, and network-level visibility across creator accounts.\n\nWe are currently running controlled testing to ensure accuracy, stability, and compliance across all supported regions before public release. During this phase, performance, attribution logic, subscription tracking, and reporting workflows are being validated to production standards.\n\nIf you're part of an agency or creator network, expanded capabilities are coming soon — including measurable performance scoring, referral-based revenue attribution, and network analytics designed to remove administrative friction.\n\nPublic production rollout will follow after testing is completed and verified.",
-      "publishedAt": "2026-02-26T12:00:00Z",
+      "id": "2026-02-26-agency-financial-performance",
+      "title": "Agency financial & performance tracking in testing",
+      "summary": "Agency tools for tracking business earnings, expenses, and monthly network performance are now in testing. Production release coming soon.",
+      "body": "As of February 26, 2026, Agency and Creator Network features have entered active testing.\n\nThese tools are built specifically for agency owners and creator networks to:\n\n• Track agency-level earnings and operational business expenses in one structured system.\n• Monitor overall network performance across months in a clearer, more organized way than existing platform-provided tools.\n• View trends and performance changes over time without relying on manual spreadsheets or fragmented reporting.\n\nThis is focused on giving agencies better financial clarity and long-term performance visibility.\n\nWe are currently validating calculation accuracy, reporting consistency, and monthly aggregation logic before moving these features into full production.\n\nIf you operate an agency or creator network, streamlined business financial tracking and improved monthly performance monitoring is coming soon.",
+      "publishedAt": "2026-02-26T19:30:00Z",
       "linkUrl": ""
     },
     {
