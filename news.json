@@ -20,18 +20,26 @@
     },
     {
       "id": "2026-02-23-milestone-promo",
-      "title": "Milestone rewards: free subscription for early supporters",
-      "summary": "At 1K, 5K, 10K, 20K, and 50K users the first 1,000 get 1 month free. At 100K the first 100 get 1 year free. Check the live count here—one user per device.",
-      "body": "We're celebrating growth with real rewards. When we hit 1,000 unique users (one per device), the first 1,000 get a free month. Same deal at 5,000, 10,000, 20,000, and 50,000: the first 1,000 at each milestone get 1 month free. When we reach 100,000 users, the first 100 get one year free. Share the app with other creators and watch the live creator count on this News page—only one user per device counts, so every share matters. Promo codes will be shared in-app and via our channels as we hit each milestone.",
+      "title": "Milestone rewards: limited promo codes for active subscribers",
+      "summary": "At each major milestone, 1,000 promo codes will be randomly distributed to actively subscribed users. At 100K users, 100 annual codes will be randomly awarded.",
+      "body": "We’re celebrating growth with real rewards — but with updated rules.\n\nAt 1,000, 5,000, 10,000, 20,000, and 50,000 users, we will release 1,000 promo codes per milestone. These codes will be randomly distributed to actively subscribed users at the time the milestone is reached.\n\nAt 100,000 users, 100 annual promo codes will be randomly awarded to actively subscribed users.\n\nPromo codes are not first-come, first-served and are not guaranteed. Users must have an active paid subscription at the time of distribution to qualify.\n\nWinners will be selected randomly from eligible subscribers and notified in-app once a milestone is achieved.",
       "publishedAt": "2026-02-23T12:00:00Z",
       "linkUrl": ""
     },
     {
-      "id": "2026-02-22-launch",
-      "title": "Infinitum Creator Ledger has launched",
-      "summary": "Infinitum Creator Ledger is now available. Track LIVEs, earnings, and exports in one place.",
-      "body": "On February 22, 2026, Infinitum Creator Ledger launched. Use the app to log your LIVE streams, track earnings, and export data from Export Center for taxes and reporting. Thank you for being part of the launch.",
+      "id": "2026-02-22-public-launch",
+      "title": "Infinitum Creator Ledger publicly launched out of beta",
+      "summary": "Infinitum Creator Ledger is now publicly available after beta testing. Track LIVEs, earnings, and exports in one place.",
+      "body": "On February 22, 2026, Infinitum Creator Ledger officially launched to the public after completing its beta phase.\n\nThe app is now fully available for creators to track LIVE streams, log earnings, manage expenses, and export data from Export Center for taxes and reporting.\n\nThank you to all beta users who helped test, provide feedback, and improve the platform prior to public release.",
       "publishedAt": "2026-02-22T12:00:00Z",
+      "linkUrl": ""
+    },
+    {
+      "id": "2025-02-15-beta-launch",
+      "title": "Infinitum Creator Ledger beta launched",
+      "summary": "The beta version of Infinitum Creator Ledger officially launched for early users.",
+      "body": "At 9:00 AM EST on February 15, 2025, we officially launched the beta version of Infinitum Creator Ledger.\n\nThis initial release allowed early users to begin tracking LIVE streams, logging earnings, organizing expenses, and testing core financial tools prior to public launch.\n\nFeedback from beta users directly contributed to performance improvements, feature refinements, and overall stability leading into the public release.",
+      "publishedAt": "2025-02-15T14:00:00Z",
       "linkUrl": ""
     }
   ]
