@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-26T23:44:00Z",
+  "updatedAt": "2026-02-26T23:30:00Z",
   "items": [
     {
       "id": "2026-02-26-federal-tax-update",
       "title": "Federal tax support added — update pending App Store approval",
       "summary": "We’ve pushed an update adding federal tax handling. Some users may need to re-check or re-enter tax settings. Awaiting App Store approval.",
-      "body": "At 6:44 PM EST on February 26, 2026, we pushed an update that adds federal tax support inside Infinitum Creator Ledger.\n\nAs part of this release, some existing users may notice that certain tax settings have reset to defaults. If that applies to you, please review your tax configuration and re-enter any necessary values to ensure accurate calculations.\n\nWe are currently waiting on App Store approval before this update becomes publicly available. Once approved, the update will roll out automatically.\n\nThank you for your patience as we continue improving tax accuracy and compliance features.",
-      "publishedAt": "2026-02-26T23:44:00Z",
+      "body": "At 6:30 PM EST on February 26, 2026, we pushed an update that adds federal tax support inside Infinitum Creator Ledger.\n\nAs part of this release, some existing users may notice that certain tax settings have reset to defaults. If that applies to you, please review your tax configuration and re-enter any necessary values to ensure accurate calculations.\n\nWe are currently waiting on App Store approval before this update becomes publicly available. Once approved, the update will roll out automatically.\n\nThank you for your patience as we continue improving tax accuracy and compliance features.",
+      "publishedAt": "2026-02-26T23:30:00Z",
       "linkUrl": ""
     },
     {
