@@ -2,13 +2,15 @@
   "version": 1,
   "updatedAt": "2026-03-02T17:38:00Z",
   "items": [
-  {
-  "id": "2026-03-02-network-promo-reminder",
-  "title": "Infinitum LIVE Network: 1-Month Free Promo Code Reminder",
-  "summary": "Infinitum LIVE Creator Network members should contact their manager to receive and redeem their 1-month free promo code. Creators signed with other agencies should check with their agency for eligibility.",
-  "body": "As of 12:38 PM EST on March 2, 2026, we are reminding all Infinitum LIVE Creator Network members to contact their assigned manager to receive their 1-month free subscription promo code for Infinitum Creator Ledger.\n\nIf you are part of the Infinitum LIVE Creator Network, your manager can provide your code directly. Please reach out to them as soon as possible to ensure you receive and use your benefit.\n\nIf you are not part of Infinitum LIVE but are signed with another agency or creator network, please contact your agency to confirm whether they participate and offer 1-month promo codes to their members.\n\nHow to Redeem Your Promo Code (Mobile Only):\n\n1. Open the Infinitum Creator Ledger mobile app (iOS or Android).\n2. Go to Settings.\n3. Tap on \"Subscriptions.\"\n4. Select \"Redeem Promo Code.\"\n5. Enter your code and confirm.\n\nPromo codes must be redeemed inside the mobile app under the Subscriptions section. Promo code redemption is not available on the Web version.\n\nIf you experience any issues redeeming your code, please contact support for assistance."
-},
-   {
+    {
+      "id": "2026-03-02-network-promo-reminder",
+      "title": "Infinitum LIVE Network: 1-Month Free Promo Code Reminder",
+      "summary": "Infinitum LIVE Creator Network members should contact their manager to receive and redeem their 1-month free promo code. Creators signed with other agencies should check with their agency for eligibility.",
+      "body": "As of 12:38 PM EST on March 2, 2026, we are reminding all Infinitum LIVE Creator Network members to contact their assigned manager to receive their 1-month free subscription promo code for Infinitum Creator Ledger.\n\nIf you are part of the Infinitum LIVE Creator Network, your manager can provide your code directly. Please reach out to them as soon as possible to ensure you receive and use your benefit.\n\nIf you are not part of Infinitum LIVE but are signed with another agency or creator network, please contact your agency to confirm whether they participate and offer 1-month promo codes to their members.\n\nHow to Redeem Your Promo Code (Mobile Only):\n\n1. Open the Infinitum Creator Ledger mobile app (iOS or Android).\n2. Go to Settings.\n3. Tap on \"Subscriptions.\"\n4. Select \"Redeem Promo Code.\"\n5. Enter your code and confirm.\n\nPromo codes must be redeemed inside the mobile app under the Subscriptions section. Promo code redemption is not available on the Web version.\n\nIf you experience any issues redeeming your code, please contact support for assistance.",
+      "publishedAt": "2026-03-02T17:38:00Z",
+      "linkUrl": ""
+    },
+    {
       "id": "2026-03-01-web-1-0-4-availability",
       "title": "Version 1.0.4 Build 1 live on Web — app review pending",
       "summary": "The fully up-to-date app (1.0.4 Build 1) is now available on Web. The latest mobile build remains under review. Subscriptions are managed through the respective app stores and carry over to Web.",
