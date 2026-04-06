@@ -1,62 +1,70 @@
 {
-  "version": 1,
-  "updatedAt": "2026-03-02T19:00:00Z",
-  "items": [
-    {
-      "id": "2026-03-02-7-day-trials",
-      "title": "Trials extended: all free trials are now 7 days",
-      "summary": "All trial options have been extended to 7 days. New users now get 7 days free instead of 3 — no action required.",
-      "body": "As of 2:00 PM EST on March 2, 2026, we have extended all available free trial options to 7 days.\n\nAll new creators who sign up will now receive 7 days free instead of 3, giving you more time to fully use Infinitum Creator Ledger, explore the features, and see the value before committing.\n\nYou do not need to do anything — we have already updated the system and the change is active automatically for new sign-ups.",
-      "publishedAt": "2026-03-02T19:00:00Z",
-      "linkUrl": ""
-    },
-    {
-      "id": "2026-03-02-network-promo-reminder",
-      "title": "Infinitum LIVE Network: 1-Month Free Promo Code Reminder",
-      "summary": "Infinitum LIVE Creator Network members should contact their manager to receive and redeem their 1-month free promo code. Creators signed with other agencies should check with their agency for eligibility.",
-      "body": "As of 12:38 PM EST on March 2, 2026, we are reminding all Infinitum LIVE Creator Network members to contact their assigned manager to receive their 1-month free subscription promo code for Infinitum Creator Ledger.\n\nIf you are part of the Infinitum LIVE Creator Network, your manager can provide your code directly. Please reach out to them as soon as possible to ensure you receive and use your benefit.\n\nIf you are not part of Infinitum LIVE but are signed with another agency or creator network, please contact your agency to confirm whether they participate and offer 1-month promo codes to their members.\n\nHow to Redeem Your Promo Code (Mobile Only):\n\n1. Open the Infinitum Creator Ledger mobile app (iOS or Android).\n2. Go to Settings.\n3. Tap on \"Subscriptions.\"\n4. Select \"Redeem Promo Code.\"\n5. Enter your code and confirm.\n\nPromo codes must be redeemed inside the mobile app under the Subscriptions section. Promo code redemption is not available on the Web version.\n\nIf you experience any issues redeeming your code, please contact support for assistance.",
-      "publishedAt": "2026-03-02T17:38:00Z",
-      "linkUrl": ""
-    },
-    {
-      "id": "2026-02-26-federal-tax-update",
-      "title": "Federal tax support added — update pending App Store approval",
-      "summary": "We’ve pushed an update adding federal tax handling. Some users may need to re-check or re-enter tax settings. Awaiting App Store approval.",
-      "body": "At 6:30 PM EST on February 26, 2026, we pushed an update that adds federal tax support inside Infinitum Creator Ledger.\n\nAs part of this release, some existing users may notice that certain tax settings have reset to defaults. If that applies to you, please review your tax configuration and re-enter any necessary values to ensure accurate calculations.\n\nWe are currently waiting on App Store approval before this update becomes publicly available. Once approved, the update will roll out automatically.\n\nThank you for your patience as we continue improving tax accuracy and compliance features.",
-      "publishedAt": "2026-02-26T23:30:00Z",
-      "linkUrl": ""
-    },
-    {
-      "id": "2026-02-26-agency-financial-performance",
-      "title": "Agency financial & performance tracking in testing",
-      "summary": "Agency tools for tracking business earnings, expenses, and monthly network performance are now in testing. Production release coming soon.",
-      "body": "As of February 26, 2026, Agency and Creator Network features have entered active testing.\n\nThese tools are built specifically for agency owners and creator networks to:\n\n• Track agency-level earnings and operational business expenses in one structured system.\n• Monitor overall network performance across months in a clearer, more organized way than existing platform-provided tools.\n• View trends and performance changes over time without relying on manual spreadsheets or fragmented reporting.\n\nThis is focused on giving agencies better financial clarity and long-term performance visibility.\n\nWe are currently validating calculation accuracy, reporting consistency, and monthly aggregation logic before moving these features into full production.\n\nIf you operate an agency or creator network, streamlined business financial tracking and improved monthly performance monitoring is coming soon.",
-      "publishedAt": "2026-02-26T19:30:00Z",
-      "linkUrl": ""
-    },
-    {
-      "id": "2026-02-23-milestone-promo",
-      "title": "Milestone rewards: limited promo codes for active subscribers",
-      "summary": "At each major milestone, 1,000 promo codes will be randomly distributed to actively subscribed users. At 100K users, 100 annual codes will be randomly awarded.",
-      "body": "We’re celebrating growth with real rewards — but with updated rules.\n\nAt 1,000, 5,000, 10,000, 20,000, and 50,000 users, we will release 1,000 promo codes per milestone. These codes will be randomly distributed to actively subscribed users at the time the milestone is reached.\n\nAt 100,000 users, 100 annual promo codes will be randomly awarded to actively subscribed users.\n\nPromo codes are not first-come, first-served and are not guaranteed. Users must have an active paid subscription at the time of distribution to qualify.\n\nWinners will be selected randomly from eligible subscribers and notified in-app once a milestone is achieved.",
-      "publishedAt": "2026-02-23T12:00:00Z",
-      "linkUrl": ""
-    },
-    {
-      "id": "2026-02-22-public-launch",
-      "title": "Infinitum Creator Ledger publicly launched out of beta",
-      "summary": "Infinitum Creator Ledger is now publicly available after beta testing. Track LIVEs, earnings, and exports in one place.",
-      "body": "On February 22, 2026, Infinitum Creator Ledger officially launched to the public after completing its beta phase.\n\nThe app is now fully available for creators to track LIVE streams, log earnings, manage expenses, and export data from Export Center for taxes and reporting.\n\nThank you to all beta users who helped test, provide feedback, and improve the platform prior to public release.",
-      "publishedAt": "2026-02-22T12:00:00Z",
-      "linkUrl": ""
-    },
-    {
-      "id": "2025-02-11-beta-launch",
-      "title": "Infinitum Creator Ledger beta launched",
-      "summary": "The beta version of Infinitum Creator Ledger officially launched for early users.",
-      "body": "At 9:00 AM EST on February 11, 2025, we officially launched the beta version of Infinitum Creator Ledger.\n\nThis initial release allowed early users to begin tracking LIVE streams, logging earnings, organizing expenses, and testing core financial tools prior to public launch.\n\nFeedback from beta users directly contributed to performance improvements, feature refinements, and overall stability leading into the public release.",
-      "publishedAt": "2025-02-11T14:00:00Z",
-      "linkUrl": ""
-    }
-  ]
-}
+    "version": 1,
+    "updatedAt": "2026-04-06T20:00:00Z",
+    "items": [
+      {
+        "id": "2026-04-06-how-it-actually-works",
+        "title": "New: “How it actually works” — read once, then anytime in Settings",
+        "summary": "A mandatory first-time walkthrough explains JSON vs earnings, CSV imports, manual work, PayPal, and taxes. The same full guide lives under Settings → How everything works.",
+        "body": "April 6, 2026 — We added a clear, plain-language overview so everyone understands how Infinitum Creator Ledger fits with TikTok data, your own entries, and official records.\n\nWhat it covers:\n\n• TikTok JSON: helpful for structure and many expenses, but it does not reliably bring in full earnings/coins — you still enter diamonds and other earnings manually.\n• CSV: if you build a file using our template (Earnings or Expenses import), imports can land neatly; you still maintain the spreadsheet.\n• Ongoing work: re-importing when you get new TikTok exports and/or manual entries is normal — nothing live-syncs from TikTok into the app.\n• Reminders: why we nudge you (TikTok can remove or limit older LIVE data over time).\n• PayPal / payouts, QuickBooks-style tools, and your tax pro: what the app is for vs what official statements and a CPA or preparer are for.\n\nThe first time you reach the main app after this update, you’ll see this overview full-screen: scroll through and tap “I understand” once. After that, you won’t see it again on this device unless we publish a new version of the message.\n\nRead the same full text anytime (no button required there): open Settings → How everything works and scroll the “How it actually works” section at the top.",
+        "publishedAt": "2026-04-06T20:00:00Z",
+        "linkUrl": ""
+      },
+      {
+        "id": "2026-03-02-7-day-trials",
+        "title": "Trials extended: all free trials are now 7 days",
+        "summary": "All trial options have been extended to 7 days. New users now get 7 days free instead of 3 — no action required.",
+        "body": "As of 2:00 PM EST on March 2, 2026, we have extended all available free trial options to 7 days.\n\nAll new creators who sign up will now receive 7 days free instead of 3, giving you more time to fully use Infinitum Creator Ledger, explore the features, and see the value before committing.\n\nYou do not need to do anything — we have already updated the system and the change is active automatically for new sign-ups.",
+        "publishedAt": "2026-03-02T19:00:00Z",
+        "linkUrl": ""
+      },
+      {
+        "id": "2026-03-02-network-promo-reminder",
+        "title": "Infinitum LIVE Network: 1-Month Free Promo Code Reminder",
+        "summary": "Infinitum LIVE Creator Network members should contact their manager to receive and redeem their 1-month free promo code. Creators signed with other agencies should check with their agency for eligibility.",
+        "body": "As of 12:38 PM EST on March 2, 2026, we are reminding all Infinitum LIVE Creator Network members to contact their assigned manager to receive their 1-month free subscription promo code for Infinitum Creator Ledger.\n\nIf you are part of the Infinitum LIVE Creator Network, your manager can provide your code directly. Please reach out to them as soon as possible to ensure you receive and use your benefit.\n\nIf you are not part of Infinitum LIVE but are signed with another agency or creator network, please contact your agency to confirm whether they participate and offer 1-month promo codes to their members.\n\nHow to Redeem Your Promo Code (Mobile Only):\n\n1. Open the Infinitum Creator Ledger mobile app (iOS or Android).\n2. Go to Settings.\n3. Tap on \"Subscriptions.\"\n4. Select \"Redeem Promo Code.\"\n5. Enter your code and confirm.\n\nPromo codes must be redeemed inside the mobile app under the Subscriptions section. Promo code redemption is not available on the Web version.\n\nIf you experience any issues redeeming your code, please contact support for assistance.",
+        "publishedAt": "2026-03-02T17:38:00Z",
+        "linkUrl": ""
+      },
+      {
+        "id": "2026-02-26-federal-tax-update",
+        "title": "Federal tax support added — update pending App Store approval",
+        "summary": "We’ve pushed an update adding federal tax handling. Some users may need to re-check or re-enter tax settings. Awaiting App Store approval.",
+        "body": "At 6:30 PM EST on February 26, 2026, we pushed an update that adds federal tax support inside Infinitum Creator Ledger.\n\nAs part of this release, some existing users may notice that certain tax settings have reset to defaults. If that applies to you, please review your tax configuration and re-enter any necessary values to ensure accurate calculations.\n\nWe are currently waiting on App Store approval before this update becomes publicly available. Once approved, the update will roll out automatically.\n\nThank you for your patience as we continue improving tax accuracy and compliance features.",
+        "publishedAt": "2026-02-26T23:30:00Z",
+        "linkUrl": ""
+      },
+      {
+        "id": "2026-02-26-agency-financial-performance",
+        "title": "Agency financial & performance tracking in testing",
+        "summary": "Agency tools for tracking business earnings, expenses, and monthly network performance are now in testing. Production release coming soon.",
+        "body": "As of February 26, 2026, Agency and Creator Network features have entered active testing.\n\nThese tools are built specifically for agency owners and creator networks to:\n\n• Track agency-level earnings and operational business expenses in one structured system.\n• Monitor overall network performance across months in a clearer, more organized way than existing platform-provided tools.\n• View trends and performance changes over time without relying on manual spreadsheets or fragmented reporting.\n\nThis is focused on giving agencies better financial clarity and long-term performance visibility.\n\nWe are currently validating calculation accuracy, reporting consistency, and monthly aggregation logic before moving these features into full production.\n\nIf you operate an agency or creator network, streamlined business financial tracking and improved monthly performance monitoring is coming soon.",
+        "publishedAt": "2026-02-26T19:30:00Z",
+        "linkUrl": ""
+      },
+      {
+        "id": "2026-02-23-milestone-promo",
+        "title": "Milestone rewards: limited promo codes for active subscribers",
+        "summary": "At each major milestone, 1,000 promo codes will be randomly distributed to actively subscribed users. At 100K users, 100 annual codes will be randomly awarded.",
+        "body": "We’re celebrating growth with real rewards — but with updated rules.\n\nAt 1,000, 5,000, 10,000, 20,000, and 50,000 users, we will release 1,000 promo codes per milestone. These codes will be randomly distributed to actively subscribed users at the time the milestone is reached.\n\nAt 100,000 users, 100 annual promo codes will be randomly awarded to actively subscribed users.\n\nPromo codes are not first-come, first-served and are not guaranteed. Users must have an active paid subscription at the time of distribution to qualify.\n\nWinners will be selected randomly from eligible subscribers and notified in-app once a milestone is achieved.",
+        "publishedAt": "2026-02-23T12:00:00Z",
+        "linkUrl": ""
+      },
+      {
+        "id": "2026-02-22-public-launch",
+        "title": "Infinitum Creator Ledger publicly launched out of beta",
+        "summary": "Infinitum Creator Ledger is now publicly available after beta testing. Track LIVEs, earnings, and exports in one place.",
+        "body": "On February 22, 2026, Infinitum Creator Ledger officially launched to the public after completing its beta phase.\n\nThe app is now fully available for creators to track LIVE streams, log earnings, manage expenses, and export data from Export Center for taxes and reporting.\n\nThank you to all beta users who helped test, provide feedback, and improve the platform prior to public release.",
+        "publishedAt": "2026-02-22T12:00:00Z",
+        "linkUrl": ""
+      },
+      {
+        "id": "2025-02-11-beta-launch",
+        "title": "Infinitum Creator Ledger beta launched",
+        "summary": "The beta version of Infinitum Creator Ledger officially launched for early users.",
+        "body": "At 9:00 AM EST on February 11, 2025, we officially launched the beta version of Infinitum Creator Ledger.\n\nThis initial release allowed early users to begin tracking LIVE streams, logging earnings, organizing expenses, and testing core financial tools prior to public launch.\n\nFeedback from beta users directly contributed to performance improvements, feature refinements, and overall stability leading into the public release.",
+        "publishedAt": "2025-02-11T14:00:00Z",
+        "linkUrl": ""
+      }
+    ]
+  }
